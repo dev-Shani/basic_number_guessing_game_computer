@@ -1,2 +1,2 @@
 # basic_number_guessing_game_computer
- v1.0 Basic guessing game where the computer tries to guess a number the user is thinking of.
+ v1.0 Basic guessing game where the computer tries to guess a number the user is thinking of. Based off freeCodeCamp beginner projects.
